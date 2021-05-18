@@ -1,0 +1,54 @@
+.navbar {
+  text-align:center;
+  margin-top:10px;
+  margin-bottom:10px;
+}
+
+.navbar a {
+  display:inline-block;
+  color:white;
+  width:200px;
+  height:40px;
+  line-height:40px;
+  background-color:black;
+  vertical-align:middle;
+  text-decoration:none;
+}
+
+.navbar a:hover {
+  font-weight:bold;
+}
+
+.banner {
+  width:100%;
+  height:150px;
+  line-height:150px;
+  text-align:center;
+  font-size:60px;
+}
+
+.pics {
+  width:100%;
+  height:auto;
+  text-align:center;
+  margin-bottom:30px;
+}
+
+.pics figure {
+  display:inline-block;
+  width:300px;
+  height:200px;
+  color:black;
+  text-align:center;
+  font-size:14px;
+  margin:10px 50px 5px 5px;
+  border:5px solid black;
+  border-radius:10px;
+}
+
+.footer {
+  width:100%;
+  height:200px;
+  line-height:200px;
+  text-align:center;
+}
